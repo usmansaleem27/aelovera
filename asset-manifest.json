@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aelovera/static/css/main.87c4a4db.css",
+    "main.js": "/aelovera/static/js/main.308e9180.js",
+    "static/js/787.03656609.chunk.js": "/aelovera/static/js/787.03656609.chunk.js",
+    "static/media/flower_bg.png": "/aelovera/static/media/flower_bg.4f330aaa09962197d99d.png",
+    "static/media/logo.png": "/aelovera/static/media/logo.cc0c1bf9ec2597e87a81.png",
+    "index.html": "/aelovera/index.html",
+    "main.87c4a4db.css.map": "/aelovera/static/css/main.87c4a4db.css.map",
+    "main.308e9180.js.map": "/aelovera/static/js/main.308e9180.js.map",
+    "787.03656609.chunk.js.map": "/aelovera/static/js/787.03656609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c4a4db.css",
+    "static/js/main.308e9180.js"
+  ]
+}
