@@ -23,7 +23,7 @@ const HomeScreen = () => {
                                 <p className='text-white fs-5 pe-lg-5 pt-3'>There's a reason you always turn to aloe vera gel to soothe a painful sunburn: The plant is known for its ability to reduce inflammation.</p>
                             </div>
                             <div>
-                                <a href='#' className='view_click text-white fs-4'>View <span className='ps-2'> <BsArrowRight /> </span></a>
+                                <a href='https://google.com' className='view_click text-white fs-4'>View <span className='ps-2'> <BsArrowRight /> </span></a>
                             </div>
                         </div>
                             </div>

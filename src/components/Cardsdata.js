@@ -1,5 +1,5 @@
 import React from 'react'
-import Flower from "../images/flower_bg.png"
+// import Flower from "../images/flower_bg.png"
 
 const Cardsdata = (props) => {
   return (
@@ -14,7 +14,7 @@ const Cardsdata = (props) => {
                   <p className="card-text text-center">
                       { props.cardsdescription }
                     </p>
-                    <a href="#" className="btn btn-danger">
+                    <a href="https://google.com" className="btn btn-danger">
                       { props.button }
                     </a>
                   </div>

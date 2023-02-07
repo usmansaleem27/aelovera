@@ -27,9 +27,27 @@ body{
   height: calc(100vh - 13vh) !important;
 
 }
-
+.height_container{
+  height: 100vh !important;
+}
+.bg_color{
+  background-color: red;
+}
+.form_error{
+  font-size: 12px;
+  color: red;
+}
 .view_click{
   text-decoration: none;
+}
+.forgot_link{
+  color: rgb(94, 92, 92);
+  text-decoration: none;
+}
+
+.forgot_link:hover{
+  color: rgb(143, 141, 141);
+  text-decoration: underline;
 }
 
 .card_img{
@@ -45,4 +63,38 @@ body{
   .padding_right{
     padding-right: 150px !important;
   }
+}
+
+
+
+
+/* +_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_ */
+/*     Documentation Page                                */
+/* +_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_ */
+
+.side_buttons .nav-link{
+  color: #000000;
+  background-color: #F3F3F3 !important;
+  text-align: left;
+  border-radius: 0px;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+}
+.side_buttons .nav-link.active{
+  background-color: #F47458 !important;
+  color: #000000 !important;
+}
+.side_buttons .nav-link:hover{
+  color: black;
+  background-color: #F3F3F3;
+}
+
+.orange_color{
+  color: #F47458;
+}
+
+#documentation_page li, p{
+  line-height: 30px;
 }

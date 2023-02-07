@@ -64,13 +64,13 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link text_white" to="/">
-                  Services
+                <Link className="nav-link text_white" to="/editable">
+                  Editable
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link text_white" to="/">
-                  Blog
+                <Link className="nav-link text_white" to="/documentation">
+                  Documentation
                 </Link>
               </li>
               <li className="nav-item">
@@ -92,6 +92,11 @@ const Navbar = () => {
                 <a className="nav-link text_white" href="/">
                   <BsPerson />
                 </a>
+              </li>
+              <li className="nav-item">
+                <Link to="/login" className="btn btn-danger nav-link text_white ms-lg-3">
+                    Join Now
+                  </Link>
               </li>
             </ul>
           </div>
